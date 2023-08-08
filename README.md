@@ -14,8 +14,8 @@ This program was written to download videos with youtube-dl on Reddit, compile i
 - Register for all APIs that would need to be used and plug in your keys where it states to
 - Pick your subreddit where I have added that variable
 - Select your count for how many subreddit posts you want the algorithm to go through. **NOTE** This is NOT how many videos you want, this is how many posts you would like the program to scroll through. Going through 30 posts will lead to any number from 0 to 30 videos, and when I ran demos on my computer, I typically got somewhere in the low to mid-20s.
-- You will need four files on your computer, ideally within a larger channel folder. These will be your Intro, Outro, Scraped, and Final folders.
-- I have sim
+- You will need four files on your computer, ideally within a larger channel folder. These will be your Intro, Outro, Scraped, and Final folders. It is important that I quickly explain each folder. Intro and Outro should have one video in each folder prior to execution. The scraped folder is where all of the videos will be downloaded, creating the compilation. Finally, the Final folder will be where the final product goes, taking videos from Intro, then Scraped, and Outro. This will then be ready for uploading to YouTube.
+- I have written "CONFIGURE: XYZ" in the code so that it would be easier for users to make their own video maker.
 
 
 ### [Demo Channel](https://www.youtube.com/@TikToktor)
